@@ -1,0 +1,434 @@
+%!PS-Adobe-2.0
+%%Pages: 7
+
+%%Page: 1 1
+0.394 0.394 scale
+[1 0 0 -1 0 2011] concat
+252 180 translate
+
+newpath
+%%square
+00 00 moveto
+784.8 00 lineto
+784.8 784.8 lineto
+00 784.8 lineto
+00 00 lineto
+%%diagonals
+784.8 784.8 lineto
+784.8 00 moveto
+00 784.8 lineto
+%%halfs
+392.4 784.8 moveto
+392.4 00 lineto
+00 392.4 moveto
+784.8 392.4 lineto
+closepath
+
+2 setlinewidth
+stroke
+
+0 884.8 translate
+newpath
+%%rectangle
+112.8 00 moveto
+225.6 00 lineto
+225.6 225.6 lineto
+112.8 225.6 lineto
+112.8 00 lineto
+%%income lines
+00 56.4 moveto
+112.8 56.4 lineto
+0 112.8 moveto
+112.8 112.8 lineto 
+0 169.4 moveto
+112.8 169.4 lineto
+%%outcome line
+225.6 112.8 moveto
+338.4 112.8 lineto 
+closepath
+2 setlinewidth
+stroke
+
+0 300.8 translate 
+newpath
+%%vertical lines 
+196.8 0 moveto
+196.8 227.3 lineto
+256.8 0 moveto
+256.8 227.3 lineto
+%%horizontal lines
+00 113.65 moveto
+196.8 113.65 lineto
+256.8 113.65 moveto
+453.6 113.65 lineto
+closepath
+2 setlinewidth
+stroke
+
+showpage
+
+
+
+
+
+%%Page: 2 2
+0.394 0.394 scale
+[1 0 0 -1 0 2011] concat
+252 180 translate
+
+/square 
+{ 
+	translate
+	newpath
+	
+	%%square
+	0 0 moveto
+	784.8 0 rlineto
+	0 784.8 rlineto
+	-784.8 0 rlineto
+	0 -784.8 rlineto
+	
+	%%diagonals 
+	784.8 784.8 rlineto
+	784.8 0 moveto
+	-784.8 784.8 rlineto
+	
+	%%halfs
+	392.4 0 moveto
+	0 784.8 rlineto
+	0 392.4 moveto
+	784.8 0 rlineto
+
+	closepath
+	stroke
+	0 0 translate
+}def
+
+/box
+{
+	translate
+	newpath
+	%%rectangle 
+	0 0 moveto
+	0 225.6 rlineto
+	112.8 0 rlineto
+	0 -225 rlineto
+	-112.8 0 rlineto
+
+	%%income lines
+	0 56.4 moveto
+	-112.8 0 rlineto
+	0 112.8 moveto
+	-112.8 0 rlineto
+	0 169.4  moveto
+	-112.8 0 rlineto
+
+	%%outcome line
+	112.8 112.8 moveto
+	112.8 0 rlineto
+
+	closepath
+	stroke
+	0 0 translate 
+}def
+
+/capacitor
+{
+	translate
+	newpath
+
+	%%horizontal lines
+	0 -113.65 moveto
+	196.8 0 rlineto
+	256.8 -113.65 moveto
+	196.8 0 rlineto
+
+	%%vertical lines
+	196.8 -227.3 moveto
+	0 256.8  rlineto
+	256.8  -227.3 moveto
+	0 256.8 rlineto
+
+	closepath
+	stroke
+	0 0 translate
+}def
+
+0 0 square 
+118 850 box
+-118 500 capacitor
+showpage
+
+
+
+
+
+%%Page: 3 3
+0.394 0.394 scale
+[1 0 0 -1 0 2011] concat
+7.2 7.2 scale
+35 25 translate
+
+newpath
+%%square
+00 00 moveto
+109 00 lineto
+109 109 lineto
+00 109 lineto
+00 00 lineto
+%%diagonals
+109 109 lineto
+109 00 moveto
+00 109 lineto
+%%halfs
+54.5 109 moveto
+54.5 00 lineto
+00 54.5 moveto
+109 54.5 lineto
+closepath
+0.2 setlinewidth
+stroke
+
+0 120 translate
+newpath
+%%box
+15.6 00 moveto
+31.3 00 lineto
+31.3 31.3 lineto
+15.6 31.3 lineto
+15.6 00 lineto
+%%income lines
+00 7.8 moveto
+15.6 7.8 lineto
+0 15.6 moveto
+15.6 15.6 lineto 
+0 23.5 moveto
+15.6 23.5 lineto
+%%outcome line
+31.3 15.6 moveto
+47 15.6 lineto
+0.2 setlinewidth
+stroke
+
+showpage
+
+
+
+
+
+
+%%Page: 4 4
+0.394 0.394 scale
+[1 0 0 -1 0 2011] concat
+252 180 translate
+/mm 
+{
+	7.2 7.2 scale
+}def
+
+/transistor
+{
+	translate
+	2 2 scale
+	
+	%%circle 
+	newpath
+	0 0 17 0 360 arc
+	closepath
+	stroke
+
+	%%lines
+	newpath
+	-7 0 moveto
+	-40 0 rlineto
+	
+	-7 12 moveto
+	0 -24 rlineto
+	
+	-7 8 moveto
+	10 9 rlineto
+	0 60 rlineto
+	
+	-7 -8 moveto
+	10 -9 rlineto
+	0 -50 rlineto
+	
+	stroke
+
+	%arrow
+	newpath
+	3 -17 moveto
+	20 rotate
+	0 5 rlineto
+	30 rotate
+	-5 0 rlineto
+	closepath
+	fill
+	0.5 0.5 scale
+}def
+
+mm
+30 106 transistor
+showpage
+
+
+%%Page: 5 5
+0.394 0.394 scale
+[1 0 0 -1 0 2011] concat
+648 43.2 translate
+/mm 
+{
+	3.6 3.6 scale
+}def
+
+/transformator
+{
+	translate
+	newpath
+	0 12 moveto
+	100 0 rlineto
+	150 100 88 -90 90 arc
+	150 276 88 -90 90 arc
+	150 452 88 -90 90 arc 
+	-150 0 rlineto
+	stroke
+}def
+mm
+0 00 transformator
+showpage
+
+
+
+%%Page: 6 6
+0.394 0.394 scale
+[1 0 0 -1 0 2011] concat
+648 43.2 translate
+/mm 
+{
+	7.2 7.2 scale
+}def
+
+/box
+{
+	translate
+	newpath
+	%%rectangle 
+	0 25 moveto
+	0 200 rlineto
+	100 0 rlineto
+	0 -200 rlineto
+	-100 0 rlineto
+
+	%%income lines
+	0 75 moveto
+	-75 0 rlineto
+	0 175 moveto
+	-75 0 rlineto
+
+	%outcome line
+	100 125 moveto
+	75 0 rlineto
+	closepath
+	stroke
+	
+	newpath
+	100 125 10 0 360 arc 
+	closepath
+	1. setgray
+	fill
+	
+	newpath
+	100 125 10 0 360 arc
+	.0 setgray
+	stroke
+	0 0 translate 
+}def
+mm
+0 00 box
+
+showpage
+
+
+
+%%Page: 7 7
+
+/Times-Roman findfont
+12 scalefont
+setfont
+newpath
+100 750 moveto
+(Cafedra SAPR\n) show
+100 735 moveto
+(Student gr. DA-81 Anastasia Taran) show
+closepath
+
+/Helvetica findfont
+12 scalefont
+setfont
+newpath
+100 700 moveto
+(Cafedra SAPR\n) show
+100 685 moveto
+(Student gr. DA-81 Anastasia Taran) show
+closepath
+
+-180 rotate
+/Helvetica findfont
+16 scalefont
+setfont
+newpath
+-300 -600 moveto
+(Cafedra SAPR\n) show
+-300 -585 moveto
+(Student gr. DA-81 Anastasia Taran) show
+closepath
+
+showpage
+
+
+
+%%Page: 8 8
+/mm 
+{
+	2.836 2.836 scale
+}def
+mm
+
+%main frame
+newpath
+	20 5 moveto
+	185 0 rlineto
+	0 267 rlineto
+	-185 0 rlineto
+	0 -267 rlineto
+closepath
+0.40 setlinewidth 
+stroke
+
+newpath
+	60 5 translate
+	0 0 moveto
+	0 22 rlineto
+	145 0 rlineto
+	
+	70 0 moveto
+	0 22 rlineto
+	
+	0 8 moveto
+	145 0 rlineto
+	0 15 moveto
+	70 0 rlineto
+	
+	25 22 moveto
+	0 -14 rlineto
+	55 22 moveto
+	0 -14 rlineto
+
+	105 0 moveto
+	0 8 rlineto
+	125 0 moveto
+	0 8 rlineto
+closepath
+stroke
+
+showpage
