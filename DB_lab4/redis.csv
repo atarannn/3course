@@ -1,0 +1,17 @@
+b'user:eric',"{b'name': b'Eric Redmond', b'password': b's3cret'}"
+b'bad_count',b'a'
+b'user:eric:password',b's3cret'
+b'gog',b'https://www.google.com'
+b'geeting',b'-1'
+b'eric:visited',[b'stor']
+b'store',b'https://www.store.com'
+b'user:eric:name',b'Eric Redmomd'
+b'websites',"{b'store.com', b'nytimes.com', b'apple.com'}"
+b'eric:wishlist',[b'7wks']
+b'7wks',b'http://www.sevenweeks.org/'
+b'count',b'4'
+b'greeting',b'Hello'
+b'tech',"{b'store.com', b'apple.com'}"
+b'yah',b'https://www.yahoo.com'
+b'news',"{b'store.com', b'nytimes.com'}"
+b'user:eris:name',b'Eric Redmond'
