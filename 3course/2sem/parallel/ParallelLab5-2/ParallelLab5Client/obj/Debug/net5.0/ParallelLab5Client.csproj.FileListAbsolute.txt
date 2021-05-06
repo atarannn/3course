@@ -1,0 +1,16 @@
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/bin/Debug/net5.0/ParallelLab5Client
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/bin/Debug/net5.0/ParallelLab5Client.deps.json
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/bin/Debug/net5.0/ParallelLab5Client.runtimeconfig.json
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/bin/Debug/net5.0/ParallelLab5Client.runtimeconfig.dev.json
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/bin/Debug/net5.0/ParallelLab5Client.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/bin/Debug/net5.0/ref/ParallelLab5Client.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/bin/Debug/net5.0/ParallelLab5Client.pdb
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.csprojAssemblyReference.cache
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.AssemblyInfoInputs.cache
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.AssemblyInfo.cs
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.csproj.CoreCompileInputs.cache
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ref/ParallelLab5Client.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.pdb
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/obj/Debug/net5.0/ParallelLab5Client.genruntimeconfig.cache

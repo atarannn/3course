@@ -1,0 +1,16 @@
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/bin/Release/net5.0/ParallelLab5Server
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/bin/Release/net5.0/ParallelLab5Server.deps.json
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/bin/Release/net5.0/ParallelLab5Server.runtimeconfig.json
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/bin/Release/net5.0/ParallelLab5Server.runtimeconfig.dev.json
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/bin/Release/net5.0/ParallelLab5Server.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/bin/Release/net5.0/ref/ParallelLab5Server.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/bin/Release/net5.0/ParallelLab5Server.pdb
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.csprojAssemblyReference.cache
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.GeneratedMSBuildEditorConfig.editorconfig
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.AssemblyInfoInputs.cache
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.AssemblyInfo.cs
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.csproj.CoreCompileInputs.cache
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ref/ParallelLab5Server.dll
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.pdb
+/home/stas/RiderProjects/ParallelLab5/ParallelLab5Server/obj/Release/net5.0/ParallelLab5Server.genruntimeconfig.cache

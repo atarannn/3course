@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBfpfsjz0+wDVS+qx6Q4TyVC8F8cCPoX2ajJqJziO2y3o6/BycNklKvJ9GHnuM5vqwueifjtExBHGRA1gG0gWw==",
+  "success": true,
+  "projectFilePath": "/home/stas/RiderProjects/ParallelLab5/ParallelLab5Client/ParallelLab5Client.csproj",
+  "expectedPackageFiles": [
+    "/home/stas/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

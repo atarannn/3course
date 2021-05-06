@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLab5Server", "ParallelLab5Server\ParallelLab5Server.csproj", "{5FEFA444-B7F7-41A6-8294-81BA974B89BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLab5Client", "ParallelLab5Client\ParallelLab5Client.csproj", "{ED3375E1-DFD7-4CEC-B6B5-D83489B293F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEFA444-B7F7-41A6-8294-81BA974B89BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEFA444-B7F7-41A6-8294-81BA974B89BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEFA444-B7F7-41A6-8294-81BA974B89BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEFA444-B7F7-41A6-8294-81BA974B89BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3375E1-DFD7-4CEC-B6B5-D83489B293F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3375E1-DFD7-4CEC-B6B5-D83489B293F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3375E1-DFD7-4CEC-B6B5-D83489B293F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3375E1-DFD7-4CEC-B6B5-D83489B293F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
